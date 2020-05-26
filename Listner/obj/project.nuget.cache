@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k3ejokDDUZrnRNNH9lDZU1wihn6VpDzVrIHTQ0WSozZwvwz2WWNkk7xggFOPezl69M2mrpjp5Rl0n7hh7KDTFg==",
+  "success": true,
+  "projectFilePath": "D:\\RabbiMq\\Listner\\Listner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shiv\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Shiv\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

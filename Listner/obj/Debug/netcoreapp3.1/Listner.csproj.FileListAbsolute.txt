@@ -1,0 +1,15 @@
+D:\RabbiMq\Listner\bin\Debug\netcoreapp3.1\Listner.exe
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.csprojAssemblyReference.cache
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.AssemblyInfoInputs.cache
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.AssemblyInfo.cs
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.csproj.CoreCompileInputs.cache
+D:\RabbiMq\Listner\bin\Debug\netcoreapp3.1\Listner.deps.json
+D:\RabbiMq\Listner\bin\Debug\netcoreapp3.1\Listner.runtimeconfig.json
+D:\RabbiMq\Listner\bin\Debug\netcoreapp3.1\Listner.runtimeconfig.dev.json
+D:\RabbiMq\Listner\bin\Debug\netcoreapp3.1\Listner.dll
+D:\RabbiMq\Listner\bin\Debug\netcoreapp3.1\Listner.pdb
+D:\RabbiMq\Listner\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.csproj.CopyComplete
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.dll
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.pdb
+D:\RabbiMq\Listner\obj\Debug\netcoreapp3.1\Listner.genruntimeconfig.cache
