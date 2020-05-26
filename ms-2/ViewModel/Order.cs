@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ViewModel
+{
+    public class Order
+    {
+        public int Id { get; set; }
+
+        public string ProductNAme { get; set; }
+        
+        public int Qty { get; set; }
+    }
+}
